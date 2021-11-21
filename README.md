@@ -8,7 +8,7 @@ A game inspired from Chrome Dino with additional features.
 • Click ‘index.html’ to play the game
 
 
-## Reference:- 
-  -> Google
-  -> noirons repo on how to use threejs
-  -> YouTube
+## Reference:
+• Google
+• noirons repo on how to use threejs
+• YouTube
